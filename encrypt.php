@@ -37,7 +37,7 @@
       }
       
       /**
-       * Encrypts the key using an alternation of the caesar's chiffer.
+       * Encrypts the key using an alternation of the caesar cipher.
        * The key is used to set a different alternation for the letters, instead
        * of having it moved by a constant number.
        * 
